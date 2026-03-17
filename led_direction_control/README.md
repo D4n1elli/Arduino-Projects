@@ -1,5 +1,5 @@
 # LED direction control ⬅️💡➡️
-Small Arduino project made by me 😺
+Small Arduino project made by me.
 
 ## Description
 This project goal is to use 2 buttons to control the direction the LED will move, going left or right. For an example, if the user press the left button, the LED on will move to left until the button is released.
